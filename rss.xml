@@ -4,14 +4,14 @@
         <description><![CDATA[Webspiration]]></description>
         <link>https://thegrid.ai/webdesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 10:54:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 11:01:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/webdesign/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>gitsh is a new way to use Git: instead of running Git commands in a general purpose shell like zsh or bash, gitsh provides you with a dedicated shell just for your Git commands.</p>]]></description>
+            <description><![CDATA[<p>gitsh is a new way to use Git: instead of running Git commands in a general purpose shell like zsh or bash,gitsh provides you with a dedicated shell just for your Git commands.</p>]]></description>
             <link>https://robots.thoughtbot.com/announcing-gitsh</link>
             <guid isPermaLink="false">7c9001d8-1bbd-4aad-b595-3a4ac22f9563</guid>
-            <pubDate>Fri, 23 Oct 2015 10:53:40 GMT</pubDate>
+            <pubDate>Fri, 23 Oct 2015 11:00:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
