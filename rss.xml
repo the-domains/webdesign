@@ -4,8 +4,15 @@
         <description><![CDATA[Webspiration]]></description>
         <link>https://thegrid.ai/webdesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 11:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 11:15:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/webdesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kirby is a file-based cms | Kirby]]></title>
+            <description><![CDATA[<article><h1>Kirby is a file-based cms | Kirby</h1><p>Kirby is a file-based content management system - easy to setup, easy to use, flexible as hell.</p><img src="http://assets.getkirby.com/content/home/hero/slide-03.png"></article>]]></description>
+            <link>http://getkirby.com/</link>
+            <guid isPermaLink="false">af815ff5-0a3b-48e3-9622-a78cd0784b6f</guid>
+            <pubDate>Fri, 23 Oct 2015 11:15:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rucksack | CSS Superpowers]]></title>
             <description><![CDATA[<article><h1>Rucksack | CSS Superpowers</h1><p>A little bag of CSS superpowers, built on PostCSS</p><img src="https://simplaio.github.io/rucksack/img/full-logo.png"></article>]]></description>
