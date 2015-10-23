@@ -1,0 +1,23 @@
+name: webdesign
+favicon: null
+layout_spectrum: 0.23314232286065817
+typography_spectrum: 0.528936434071511
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.64534519193694
+  lightness: 0.3173781083896756
+  saturation: 0.1416806315537542
+  rhythmicContrast: 0.3405924227554351
+purpose: []
