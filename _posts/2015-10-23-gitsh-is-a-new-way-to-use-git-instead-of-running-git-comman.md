@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'gitsh is a new way to use Git: instead of running Git commands in a general purpose shell like zsh or bash, gitsh provides you with a dedicated shell just for y'
-datePublished: '2015-10-23T11:00:47.796Z'
-dateModified: '2015-10-23T11:00:44.726Z'
+datePublished: '2015-10-23T11:05:46.504Z'
+dateModified: '2015-10-23T11:05:39.488Z'
 author: []
-title: ''
+title: Gitsh
 sourcePath: _posts/2015-10-23-gitsh-is-a-new-way-to-use-git-instead-of-running-git-comman.md
 published: true
 authors: []
