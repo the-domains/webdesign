@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[webdesign]]></title>
+        <description><![CDATA[webdesign]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 23 Oct 2015 10:51:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>gitsh is a new way to use Git: instead of running Git commands in a general purpose shell like zsh or bash, gitsh provides you with a dedicated shell just for your Git commands.</p>]]></description>
+            <link>undefinedgitsh-is-a-new-way-to-use-git-instead-of-running-git-comman/index.html</link>
+            <guid isPermaLink="false">7c9001d8-1bbd-4aad-b595-3a4ac22f9563</guid>
+            <pubDate>Fri, 23 Oct 2015 10:50:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
