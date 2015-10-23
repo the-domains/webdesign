@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'gitsh is a new way to use Git: instead of running Git commands in a general purpose shell like zsh or bash, gitsh provides you with a dedicated shell just for y'
-datePublished: '2015-10-23T10:53:40.748Z'
-dateModified: '2015-10-23T10:53:34.236Z'
+datePublished: '2015-10-23T11:00:47.796Z'
+dateModified: '2015-10-23T11:00:44.726Z'
 author: []
 title: ''
 sourcePath: _posts/2015-10-23-gitsh-is-a-new-way-to-use-git-instead-of-running-git-comman.md
@@ -23,6 +23,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-gitsh is a new way to use Git: instead of running Git commands in a general purpose shell like zsh or bash, gitsh provides you with a dedicated shell just for your Git commands.
+`gitsh `is a new way to use Git: instead of running Git commands in a general purpose shell like zsh or bash,`gitsh `provides you with a dedicated shell just for your Git commands.
 
 https://robots.thoughtbot.com/announcing-gitsh
